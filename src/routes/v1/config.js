@@ -1,7 +1,7 @@
 exports.API_LIST = [
     'QuickGO API',
     'Ontology Lookup Service API',
-    'CTD API',
+    'CTD API', //?
     // 'OpenTarget API',
     'LitVar API',
     'Human Phenotype Ontology API',
@@ -11,9 +11,9 @@ exports.API_LIST = [
     'MyGene.info API',
     'SEMMED Disease API',
     'MyChem.info API',
-    'SEMMED Anatomy API',
+    'SEMMED Anatomy API', //?
     'SEMMED Gene API',
-    'SEMMED Phenotype API',
+    'SEMMED Phenotype API', //?
     'MGIgene2phenotype API',
     'SEMMED Biological Process API',
     'SEMMED Chemical API',
@@ -30,23 +30,23 @@ exports.API_LIST = [
     'BioLink API',
     'LINCS Data Portal API',
     'EBI Proteins API',
-    'Automat IntAct',
-    'Automat Cord19 Scibite',
-    'Automat Gtopdb',
-    'Automat KEGG',
-    'Automat Cord19 Scigraph',
-    'Automat Uberongraph',
-    'Automat Human GOA',
-    'Automat HGNC',
-    'Automat HMDB',
-    'Automat Hetio',
-    'Automat Panther',
-    'Automat Pharos',
-    'Automat Chembio',
-    'Automat Foodb',
+    'Automat IntAct (trapi v-1.1.0)',
+    'Automat Cord19 Scibite (trapi v-1.1.0)',
+    'Automat Gtopdb (trapi v-1.1.0)',
+    'Automat KEGG', //?
+    'Automat Cord19 Scigraph (trapi v-1.1.0)',
+    'Automat Uberongraph (trapi v-1.1.0)',
+    'Automat Human GOA (trapi v-1.1.0)',
+    'Automat HGNC (trapi v-1.1.0)',
+    'Automat HMDB (trapi v-1.1.0)',
+    'Automat Hetio (trapi v-1.1.0)',
+    'Automat Panther (trapi v-1.1.0)',
+    'Automat Pharos (trapi v-1.1.0)',
+    'Automat Chembio', //?
+    'Automat Foodb (trapi v-1.1.0)',
 
-    'ICEES COVID Instance API',
-    'ICEES Asthma Instance API',
+    'ICEES COVID-19 Instance API',
+    'ICEES Asthma Instance API', 
     'ICEES DILI Instance API',
     'Columbia Open Health Data (COHD)'
 
